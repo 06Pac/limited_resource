@@ -1,0 +1,1 @@
+/usr/bin/clang -g CMakeFiles/adc.dir/main.c.o -o adc 

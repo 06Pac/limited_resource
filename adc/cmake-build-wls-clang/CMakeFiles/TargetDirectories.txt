@@ -1,0 +1,3 @@
+/mnt/c/Users/irtur/Documents/Advanced Programming Concepts/adc/cmake-build-wls-clang/CMakeFiles/adc.dir
+/mnt/c/Users/irtur/Documents/Advanced Programming Concepts/adc/cmake-build-wls-clang/CMakeFiles/edit_cache.dir
+/mnt/c/Users/irtur/Documents/Advanced Programming Concepts/adc/cmake-build-wls-clang/CMakeFiles/rebuild_cache.dir
